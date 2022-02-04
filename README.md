@@ -5,6 +5,15 @@
 ## 更新
 [2022/01/24] 转眼，就已经过去4年多了，偶尔回来看看自己当初的留下热情，告诉自己要不忘初心。
 
+## 我的新开源项目  
+
+<div align='left'>
+  <img src="https://github.com/DefTruth/lite.ai.toolkit/blob/main/docs/resources/logo.png">
+</div>  
+
+* [🍅🍅Lite.AI.ToolKit: A lite C++ toolkit of awesome AI models.](https://github.com/DefTruth/lite.ai.toolkit)
+
+
 ## 目录
 <img width="1810" alt="2" src="https://user-images.githubusercontent.com/31974251/150814984-e1864b56-f20c-4cbb-95ad-923615cdae43.png">
 <img width="1809" alt="3" src="https://user-images.githubusercontent.com/31974251/150814998-af10aa95-873f-4b09-8c0b-61b094d96d89.png">
@@ -25,5 +34,3 @@
 <img width="1809" alt="15" src="https://user-images.githubusercontent.com/31974251/150815296-c133986e-8b58-4e97-afd0-f677512fb334.png">
 <img width="1807" alt="16" src="https://user-images.githubusercontent.com/31974251/150815314-11d80252-35d0-4db3-b8cd-548f991a55d9.png">
 
-## 我的新开源项目
-* [🍅🍅Lite.AI.ToolKit: A lite C++ toolkit of awesome AI models.](https://github.com/DefTruth/lite.ai.toolkit)
