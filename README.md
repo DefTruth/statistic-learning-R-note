@@ -7,9 +7,8 @@
 
 ## 我的新开源项目  
 
-<div align='left'>
-  <img src="https://github.com/DefTruth/lite.ai.toolkit/blob/main/docs/resources/logo.png">
-</div>  
+![logo-v3](https://user-images.githubusercontent.com/31974251/153538834-d671c771-7533-42b1-b3bf-eb1d7fe14dba.png)
+
 
 * [🍅🍅Lite.AI.ToolKit: A lite C++ toolkit of awesome AI models.](https://github.com/DefTruth/lite.ai.toolkit)
 
