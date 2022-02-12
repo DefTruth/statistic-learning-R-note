@@ -7,7 +7,7 @@
 
 ## 我的新开源项目  
 
-![logo-v3](https://user-images.githubusercontent.com/31974251/153538834-d671c771-7533-42b1-b3bf-eb1d7fe14dba.png)
+![logo-v3](https://user-images.githubusercontent.com/31974251/153695197-bfc6ca36-23a5-481b-b71f-b070569eb37b.png)
 
 
 * [🍅🍅Lite.AI.ToolKit: A lite C++ toolkit of awesome AI models.](https://github.com/DefTruth/lite.ai.toolkit)
