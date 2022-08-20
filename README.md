@@ -12,7 +12,7 @@
 [🛠Lite.Ai.ToolKit](https://github.com/DefTruth/lite.ai.toolkit): 一个轻量级的C++ AI模型工具箱，用户友好（还行吧），开箱即用。已经包括 100+ 流行的开源模型。这是一个根据个人兴趣整理的C++工具箱，, 涵盖目标检测、人脸检测、人脸识别、语义分割、抠图等领域。详见 Model Zoo 和 ONNX Hub 、MNN Hub 、TNN Hub 、NCNN Hub. [若是有用，❤️不妨给个⭐️🌟支持一下吧，感谢支持~] ![](https://img.shields.io/github/stars/DefTruth/lite.ai.toolkit.svg?style=social) ![](https://img.shields.io/github/forks/DefTruth/lite.ai.toolkit.svg?style=social) ![](https://img.shields.io/github/watchers/DefTruth/lite.ai.toolkit.svg?style=social)
 
 ## PDF下载  ✅✅
-- [李航《统计学习方法》笔记--从原理到实现：基于R.pdf](李航《统计学习方法》笔记--从原理到实现：基于R.pdf)
+- [李航《统计学习方法》笔记--从原理到实现：基于R.pdf](https://github.com/DefTruth/statistic-learning-R-note/releases/download/v0.1.0/statistic.learning.R.Note.v0.1.0.pdf)
 
 ## 引用本项目 🎉🎉
 
