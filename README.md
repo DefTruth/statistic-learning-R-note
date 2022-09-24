@@ -1,6 +1,6 @@
 # 🍅🍅《统计学习方法：李航》笔记 从原理到实现 基于R    
 ## 笔记简介 🤓👀 ![](https://img.shields.io/github/stars/DefTruth/statistic-learning-R-note.svg?style=social) ![](https://img.shields.io/github/forks/DefTruth/statistic-learning-R-note.svg?style=social) ![](https://img.shields.io/github/watchers/DefTruth/statistic-learning-R-note.svg?style=social)
-这是一份非常详细的学习笔记，200页左右，包含了很多详细的公式推导和案例实践，已经整理成pdf，有详细的目录。这份笔记是自己在研究生阶段入门ML的时候写的，总之，从0到1是一个很有趣的过程。由于R和ML是同时接触，所以笔记中附的代码是用`R`写的，基于R语言的`S3`类和`泛型函数`。如果你凑巧发现了这本笔记，并正好在学习机器学习，那么我会【强烈推荐】👏👋你把这份笔记下载下来，结合《统计学习方法》看，相信一定会让你不虚此行。（如果觉得有用，不妨给个🌟👆🏻Star支持一下吧~）
+这是一份非常详细的学习笔记，200页左右，包含了很多详细的公式推导和案例实践，已经整理成pdf，有详细的目录。这份笔记是自己在研究生阶段入门ML的时候写的，总之，从0到1是一个很有趣的过程。由于R和ML是同时接触，所以笔记中附的代码是用`R`写的，基于R语言的`S3`类和`泛型函数`。如果你凑巧发现了这本笔记，并正好在学习机器学习，那么我会【强烈推荐】👏👋你把这份笔记下载下来，结合《统计学习方法》看，相信一定会让你不虚此行。
 
 ## 近期更新 🤗🎉🎉
 - [2022/08/20] 更新文档，发布 [release v0.1.0](https://github.com/DefTruth/statistic-learning-R-note/releases)
@@ -8,7 +8,8 @@
 ## PDF下载  ✅✅
 - [李航《统计学习方法》笔记--从原理到实现：基于R.pdf](https://github.com/DefTruth/statistic-learning-R-note/releases/download/v0.1.0/statistic.learning.R.Note.v0.1.0.pdf)
 
-## 目录 👏👋  
+## 目录   
+#### 🌟如果觉得有用，不妨给个🌟👆🏻Star支持一下吧 
 - 第一章 统计学习方法概述
   - [1.6.2 泛化误差上界（P16-P17）](https://github.com/DefTruth/statistic-learning-R-note/releases/download/v0.1.0/statistic.learning.R.Note.v0.1.0.pdf)
   - [1.4.2 过拟合与模型选择（P11）](https://github.com/DefTruth/statistic-learning-R-note/releases/download/v0.1.0/statistic.learning.R.Note.v0.1.0.pdf)
