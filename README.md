@@ -1,5 +1,4 @@
 # 《统计学习方法：李航》笔记 从原理到实现 基于R    
-## 笔记简介  ![](https://img.shields.io/github/stars/DefTruth/statistic-learning-R-note.svg?style=social) ![](https://img.shields.io/github/forks/DefTruth/statistic-learning-R-note.svg?style=social) ![](https://img.shields.io/github/watchers/DefTruth/statistic-learning-R-note.svg?style=social)
 这是一份非常详细的学习笔记，200页左右，包含了很多详细的公式推导和案例实践，已经整理成pdf，有详细的目录。如果你凑巧发现了这本笔记，并正好在学习机器学习，那么我会【强烈推荐】👏👋你把这份笔记下载下来，结合《统计学习方法》看，相信一定会让你不虚此行。
 
 ## 近期更新 🤗🎉🎉
