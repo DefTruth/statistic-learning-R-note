@@ -3,7 +3,10 @@
 
 ## 点击下载PDF ✅
 - [李航《统计学习方法》笔记--从原理到实现：基于R.pdf](https://github.com/DefTruth/statistic-learning-R-note/releases/download/v0.1.0/statistic.learning.R.Note.v0.1.0.pdf)
-
+## 命令行下载PDF ✅
+```bash
+wget https://github.com/DefTruth/statistic-learning-R-note/releases/download/v0.1.0/statistic.learning.R.Note.v0.1.0.pdf
+```
 ## 目录 🤓👀
 #### 🌟如果觉得有用，不妨给个🌟👆🏻Star支持一下吧 
 - 第一章 统计学习方法概述
