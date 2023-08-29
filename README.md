@@ -1,4 +1,6 @@
-## 统计学习方法-李航: 笔记 从原理到实现 ![](https://img.shields.io/github/downloads/DefTruth/statistic-learning-R-note/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey)
+## 统计学习方法-李航: 笔记 从原理到实现    
+![](https://img.shields.io/github/downloads/DefTruth/statistic-learning-R-note/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey) ![](https://img.shields.io/github/stars/DefTruth/statistic-learning-R-note.svg?style=social)   
+
 这是一份非常详细的学习笔记，200页左右，各种手推公式细节讲解，已经整理成pdf，有详细的目录，可结合《统计学习方法》提高学习效率。
 
 ## 点击下载PDF ✅
