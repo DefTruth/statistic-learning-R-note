@@ -1,10 +1,10 @@
 <div align='center'>
   <img width="500" height="300" alt="v02" src="https://github.com/DefTruth/statistic-learning-R-note/assets/31974251/561384a1-fbc3-40ed-af62-98268904f387">  
-<a href="https://star-history.com/#DefTruth//statistic-learning-R-note&Date">
+<a href="https://star-history.com/#DefTruth/statistic-learning-R-note&Date">
   <picture align='center'>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DefTruth/statistic-learning-R-note&type=Date&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DefTruth/statistic-learning-R-note&type=Date" />
-    <img width="300" height="300" alt="Star History Chart" src="https://api.star-history.com/svg?repos=DefTrut/statistic-learning-R-note&type=Date" />
+    <img width="300" height="300" alt="Star History Chart" src="https://api.star-history.com/svg?repos=DefTruth/statistic-learning-R-note&type=Date" />
   </picture>
 </a>
 </div>
@@ -34,8 +34,8 @@
 ```
 
 ## 🎉Download PDFs 
-- [李航《统计学习方法》笔记--从原理到实现：基于R.pdf(👆🏻Click here!)](https://github.com/DefTruth/statistic-learning-R-note/releases/download/v0.1.0/statistic.learning.R.Note.v0.1.0.pdf)
-```bash
+- [李航《统计学习方法》笔记--从原理到实现：基于R.pdf 👆🏻<Click here!>](https://github.com/DefTruth/statistic-learning-R-note/releases/download/v0.1.0/statistic.learning.R.Note.v0.1.0.pdf)
+```shell
 wget https://github.com/DefTruth/statistic-learning-R-note/releases/download/v0.1.0/statistic.learning.R.Note.v0.1.0.pdf
 ```
 
