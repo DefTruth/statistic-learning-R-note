@@ -1,16 +1,48 @@
-## 统计学习方法-李航: 笔记 从原理到实现    
-![](https://img.shields.io/github/downloads/DefTruth/statistic-learning-R-note/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey) ![](https://img.shields.io/github/stars/DefTruth/statistic-learning-R-note.svg?style=social)   
+<div align='center'>
+  <img width="500" height="300" alt="v02" src="https://github.com/DefTruth/statistic-learning-R-note/assets/31974251/561384a1-fbc3-40ed-af62-98268904f387">  
+<a href="https://star-history.com/#DefTruth//statistic-learning-R-note&Date">
+  <picture align='center'>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DefTruth/statistic-learning-R-note&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DefTruth/statistic-learning-R-note&type=Date" />
+    <img width="300" height="300" alt="Star History Chart" src="https://api.star-history.com/svg?repos=DefTrut/statistic-learning-R-note&type=Date" />
+  </picture>
+</a>
+</div>
 
-这是一份非常详细的学习笔记，200页左右，各种手推公式细节讲解，已经整理成pdf，有详细的目录，可结合《统计学习方法》提高学习效率。
+<div align='center'>
+  <img src=https://img.shields.io/github/downloads/DefTruth/statistic-learning-R-note/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey >
+  <img src=https://img.shields.io/github/forks/DefTruth/statistic-learning-R-note.svg?style=social >
+  <img src=https://img.shields.io/github/stars/DefTruth/statistic-learning-R-note.svg?style=social >
+  <img src=https://img.shields.io/badge/PDF-avaliable-brightgreen.svg >
+  <img src=https://img.shields.io/badge/release-v0.1.0-yellow.svg >
+  <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
+ </div>   
 
-## 点击下载PDF ✅
-- [李航《统计学习方法》笔记--从原理到实现：基于R.pdf](https://github.com/DefTruth/statistic-learning-R-note/releases/download/v0.1.0/statistic.learning.R.Note.v0.1.0.pdf)
-## 命令行下载PDF ✅
+## 📒Introduction
+ 《统计学习方法-李航: 笔记 从原理到实现》 这是一份非常详细的学习笔记，200页左右，各种手推公式细节讲解，已经整理成pdf，有详细的目录，可结合《统计学习方法》提高学习效率。🌟如果觉得有用，不妨给个🌟👆🏻Star支持一下吧~
+
+## ©️Citations 
+
+```BibTeX
+@misc{statistic-learning-R-note,
+  title={statistic-learning-R-note},
+  url={https://github.com/DefTruth/statistic-learning-R-note},
+  note={Open-source software available at https://github.com/DefTruth/statistic-learning-R-note},
+  author={Yan Jun},
+  year={2017}
+}
+```
+
+## 🎉Download PDFs 
+- [李航《统计学习方法》笔记--从原理到实现：基于R.pdf(👆🏻Click here!)](https://github.com/DefTruth/statistic-learning-R-note/releases/download/v0.1.0/statistic.learning.R.Note.v0.1.0.pdf)
 ```bash
 wget https://github.com/DefTruth/statistic-learning-R-note/releases/download/v0.1.0/statistic.learning.R.Note.v0.1.0.pdf
 ```
-## 目录 🤓👀
-#### 🌟如果觉得有用，不妨给个🌟👆🏻Star支持一下吧 
+
+## 📖Contents  
+
+![image](https://github.com/DefTruth/statistic-learning-R-note/assets/31974251/561384a1-fbc3-40ed-af62-98268904f387)
+
 - 第一章 统计学习方法概述
   - [1.6.2 泛化误差上界（P16-P17）](https://github.com/DefTruth/statistic-learning-R-note/releases/download/v0.1.0/statistic.learning.R.Note.v0.1.0.pdf)
   - [1.4.2 过拟合与模型选择（P11）](https://github.com/DefTruth/statistic-learning-R-note/releases/download/v0.1.0/statistic.learning.R.Note.v0.1.0.pdf)
@@ -81,20 +113,11 @@ wget https://github.com/DefTruth/statistic-learning-R-note/releases/download/v0.
 - [附录 9 EM 算法的 R 实现](https://github.com/DefTruth/statistic-learning-R-note/releases/download/v0.1.0/statistic.learning.R.Note.v0.1.0.pdf)  
 - [附录 10 HMM 模型的 R 实现](https://github.com/DefTruth/statistic-learning-R-note/releases/download/v0.1.0/statistic.learning.R.Note.v0.1.0.pdf)
 
-## 引用本项目 🎉🎉
+## ©️License  
 
-```BibTeX
-@misc{statistic-learning-R-note,
-  title={statistic-learning-R-note},
-  url={https://github.com/DefTruth/statistic-learning-R-note},
-  note={Open-source software available at https://github.com/DefTruth/statistic-learning-R-note},
-  author={Yan Jun},
-  year={2017}
-}
-```  
+GNU General Public License v3.0  
 
-## 新开源项目 🔥🔥🔥
+## 🎉Contribute  
 
-[🛠Lite.Ai.ToolKit](https://github.com/DefTruth/lite.ai.toolkit): 一个轻量级的C++ AI模型工具箱，用户友好（还行吧），开箱即用。已经包括 100+ 流行的开源模型。这是一个根据个人兴趣整理的C++工具箱，, 涵盖目标检测、人脸检测、人脸识别、语义分割、抠图等领域。详见 Model Zoo 和 ONNX Hub 、MNN Hub 、TNN Hub 、NCNN Hub. [若是有用，❤️不妨给个⭐️🌟支持一下吧，感谢支持~] ![](https://img.shields.io/github/stars/DefTruth/lite.ai.toolkit.svg?style=social) ![](https://img.shields.io/github/forks/DefTruth/lite.ai.toolkit.svg?style=social) ![](https://img.shields.io/github/watchers/DefTruth/lite.ai.toolkit.svg?style=social)
-
+🌟如果觉得有用，不妨给个🌟👆🏻Star支持一下吧~
 
