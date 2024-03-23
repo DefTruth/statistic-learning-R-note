@@ -6,7 +6,7 @@
   <img src=https://img.shields.io/github/forks/DefTruth/statistic-learning-R-note.svg?style=social >
   <img src=https://img.shields.io/github/stars/DefTruth/statistic-learning-R-note.svg?style=social >
   <img src=https://img.shields.io/badge/PDF-avaliable-brightgreen.svg >
-  <img src=https://img.shields.io/badge/release-v0.1.0-yellow.svg >
+  <img src=https://img.shields.io/badge/Release-v0.1.0-brightgreen.svg >
   <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>   
 
@@ -109,6 +109,10 @@ wget https://github.com/DefTruth/statistic-learning-R-note/releases/download/v0.
 
 GNU General Public License v3.0  
 
+## 🎉Contribute  
+
+🌟如果觉得有用，不妨给个🌟👆🏻Star支持一下吧~
+
 <div align='center'>
   <img width="400" height="250" alt="v02" src="https://github.com/DefTruth/statistic-learning-R-note/assets/31974251/561384a1-fbc3-40ed-af62-98268904f387">  
 <a href="https://star-history.com/#DefTruth/statistic-learning-R-note&Date">
@@ -120,8 +124,4 @@ GNU General Public License v3.0
 </a>
 </div>
 
-
-## 🎉Contribute  
-
-🌟如果觉得有用，不妨给个🌟👆🏻Star支持一下吧~
 
