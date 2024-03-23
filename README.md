@@ -1,13 +1,5 @@
-<div align='center'>
-  <img width="400" height="250" alt="v02" src="https://github.com/DefTruth/statistic-learning-R-note/assets/31974251/561384a1-fbc3-40ed-af62-98268904f387">  
-<a href="https://star-history.com/#DefTruth/statistic-learning-R-note&Date">
-  <picture align='center'>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DefTruth/statistic-learning-R-note&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DefTruth/statistic-learning-R-note&type=Date" />
-    <img width="400" height="250" alt="Star History Chart" src="https://api.star-history.com/svg?repos=DefTruth/statistic-learning-R-note&type=Date" />
-  </picture>
-</a>
-</div>
+
+![image](https://github.com/DefTruth/statistic-learning-R-note/assets/31974251/07297b6a-d94c-4db0-aaef-8132071c94cb)
 
 <div align='center'>
   <img src=https://img.shields.io/github/downloads/DefTruth/statistic-learning-R-note/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey >
@@ -116,6 +108,18 @@ wget https://github.com/DefTruth/statistic-learning-R-note/releases/download/v0.
 ## ©️License  
 
 GNU General Public License v3.0  
+
+<div align='center'>
+  <img width="400" height="250" alt="v02" src="https://github.com/DefTruth/statistic-learning-R-note/assets/31974251/561384a1-fbc3-40ed-af62-98268904f387">  
+<a href="https://star-history.com/#DefTruth/statistic-learning-R-note&Date">
+  <picture align='center'>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DefTruth/statistic-learning-R-note&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DefTruth/statistic-learning-R-note&type=Date" />
+    <img width="400" height="250" alt="Star History Chart" src="https://api.star-history.com/svg?repos=DefTruth/statistic-learning-R-note&type=Date" />
+  </picture>
+</a>
+</div>
+
 
 ## 🎉Contribute  
 
