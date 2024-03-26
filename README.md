@@ -22,12 +22,12 @@
 ## ©️Citations 
 
 ```BibTeX
-@misc{statistic-learning-R-note@2017,
+@misc{statistic-learning-R-note@2019,
   title={statistic-learning-R-note: A detail note book of statistic-learning with R codes},
   url={https://github.com/DefTruth/statistic-learning-R-note},
   note={Open-source software available at https://github.com/DefTruth/statistic-learning-R-note},
-  author={Yanjun Qiu},
-  year={2017}
+  author={DefTruth},
+  year={2019}
 }
 ```
 
