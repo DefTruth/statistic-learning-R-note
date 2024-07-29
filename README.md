@@ -11,7 +11,7 @@
  </div>   
 
 ## News 👇👇
-Most of my time now is focused on **LLM/VLM** Inference. Please check 📖[Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)  ![](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social), 📖[Awesome-SD-Distributed/Caching-Inference](https://github.com/DefTruth/Awesome-SD-Distributed-Caching-Inference)  ![](https://img.shields.io/github/stars/DefTruth/Awesome-SD-Distributed-Caching-Inference.svg?style=social) and 📖[CUDA-Learn-Notes](https://github.com/DefTruth/CUDA-Learn-Notes)  ![](https://img.shields.io/github/stars/DefTruth/CUDA-Learn-Notes.svg?style=social) for more details.
+Most of my time now is focused on **LLM/VLM** Inference. Please check 📖[Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)  ![](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social), 📖[Awesome-SD-Inference](https://github.com/DefTruth/Awesome-SD-Inference)  ![](https://img.shields.io/github/stars/DefTruth/Awesome-SD-Inference.svg?style=social) and 📖[CUDA-Learn-Notes](https://github.com/DefTruth/CUDA-Learn-Notes)  ![](https://img.shields.io/github/stars/DefTruth/CUDA-Learn-Notes.svg?style=social) for more details.
 
 ## 📒Introduction
  《统计学习方法-李航: 笔记-从原理到实现》 这是一份非常详细的学习笔记，200页，各种手推公式细节讲解，整理成PDF，有详细的目录，可结合《统计学习方法》提高学习效率。如果觉得有用，不妨给个🌟Star支持一下吧~
