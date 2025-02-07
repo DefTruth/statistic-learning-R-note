@@ -1,5 +1,8 @@
-
+<!--
 ![image](https://github.com/DefTruth/statistic-learning-R-note/assets/31974251/07297b6a-d94c-4db0-aaef-8132071c94cb)
+-->
+
+![image](https://github.com/user-attachments/assets/c7ff6abe-8ae1-449e-9b07-7d1b49b9cf48)
 
 <div align='center'>
   <img src=https://img.shields.io/github/downloads/DefTruth/statistic-learning-R-note/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey >
